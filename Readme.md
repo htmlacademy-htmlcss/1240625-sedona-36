@@ -1,4 +1,4 @@
-ч# Личный проект «Седона»
+# Личный проект «Седона»
 
 * Студент: [Ulugbek Zhalgaubayev](https://up.htmlacademy.ru/htmlcss/36/user/1240625).
 * Наставник: `Коля Колганов`.
